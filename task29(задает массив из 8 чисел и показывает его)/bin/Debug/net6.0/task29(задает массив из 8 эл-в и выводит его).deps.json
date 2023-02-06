@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task29(задает массив из 8 эл-в и выводит его)/1.0.0": {
+        "runtime": {
+          "task29(задает массив из 8 эл-в и выводит его).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task29(задает массив из 8 эл-в и выводит его)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
