@@ -8,7 +8,7 @@
 Console.Write("Ваведите число от 1 до 7: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-if (num >= 6)
+if (num >= 6 && num <= 7)
 {
     Console.WriteLine("да");
 }
